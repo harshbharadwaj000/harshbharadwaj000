@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @harshbharadwaj000
+- 👀 I’m interested in HTML , CSS ,PYTHON
+- 🌱 I’m currently learning Computer science Engineering
+- 💞️ I’m looking to collaborate on small Projects for school and self.
+- - 📫 How to reach me at harsh639bhardwaj@gmail.com
+- 😄 Pronouns: he\him
+- ⚡ Fun fact: computer have limits but we don't.
