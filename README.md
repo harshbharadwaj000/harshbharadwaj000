@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshbharadwaj000
-- 👀 I’m interested in HTML , CSS ,PYTHON
+- 👀 I’m interested in HTML , CSS ,PYTHON ,JAVA ,LINUX , SOLIDWORKS.
 - 🌱 I’m currently learning Computer science Engineering
 - 💞️ I’m looking to collaborate on small Projects for school and self.
 - - 📫 How to reach me at harsh639bhardwaj@gmail.com
